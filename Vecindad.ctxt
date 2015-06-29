@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vecindad()
+comment0.text=\r\n\ Crea\ todos\ los\ objetos;\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Llama\ al\ metodo\ que\ crea\ todo\ el\ mundo.\r\n
+comment2.params=iAcomodar
+comment2.target=void\ setAddObjects(int)
+comment3.params=Acomodar
+comment3.target=void\ eliminaVecindad(int)
+comment3.text=\r\n\ Remueve\ todos\ los\ objetos\ al\ cambiar\ de\ nivel.\r\n
+comment4.params=Acomodar
+comment4.target=void\ setCreate(int)
+comment4.text=\r\n\ Despues\ de\ eliminar\ el\ mundo\ crea\ uno\ nuevo\ con\ nuevas\ condiciones.\r\n
+numComments=5

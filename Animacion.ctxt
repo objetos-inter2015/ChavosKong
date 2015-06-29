@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Animacion()
+comment0.text=\r\n\ Inicialisa\ en\ null\ el\ array,\ ya\ que\ despues\ las\ subclases\ lo\ inicialisaran\ de\ manera\ correcta\r\n
+comment1.params=
+comment1.target=void\ Animacion1()
+comment1.text=\r\n\ Animacion1\ es\ la\ animacion\ a\ 3\ imagenes\r\n
+comment2.params=
+comment2.target=void\ Animacion2()
+comment2.text=\r\n\ Animacion2\ es\ la\ animacion\ a\ 2\ imagenes\r\n
+numComments=3
