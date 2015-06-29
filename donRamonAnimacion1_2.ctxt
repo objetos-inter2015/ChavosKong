@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=donRamonAnimacion1()
-comment0.text=\r\n\ Hereda\ de\ su\ superclase\ la\ variable\ eErray\ y\ la\ inicialisa\ con\ las\ imagenes\ \r\n\ correspondientes\ a\ la\ animacion\r\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\r\n\ Hereda\ Animaicon2\ de\ su\ superclase\ Animacion\r\n
-numComments=2
